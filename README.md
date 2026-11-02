@@ -10,9 +10,9 @@ Patch de tradução para Português Brasileiro do jogo **Midnight Club 3: DUB Ed
 
 ---
 
-## Conteúdo do repositório
+## O que vem no download
 
-- `Midnight Club 3 - DUB Edition Remix (Patch PTBR).xdelta` — o patch de tradução (formato xdelta)
+- `Midnight Club 3 - DUB Edition Remix (PT-BR).xdelta` — o patch de tradução (formato xdelta)
 - `LEIAME.txt` — instruções completas de instalação (em português)
 
 ## Requisitos
@@ -23,12 +23,12 @@ Patch de tradução para Português Brasileiro do jogo **Midnight Club 3: DUB Ed
 ## Como instalar
 
 1. Baixe o [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases) para o seu sistema operacional.
-2. Baixe o arquivo `patch.xdelta` deste repositório (aba **Releases** ou direto na lista de arquivos).
+2. Baixe o arquivo `Midnight Club 3 - DUB Edition Remix (PT-BR).xdelta` deste repositório (aba **Releases** — vem dentro do arquivo .zip).
 3. Abra o Delta Patcher e selecione o modo **Apply Patch**.
-4. Selecione o `patch.xdelta`, sua ISO original e o nome do arquivo de destino.
+4. Selecione o `Midnight Club 3 - DUB Edition Remix (PT-BR).xdelta`, sua ISO original e o nome do arquivo de destino.
 5. Clique em **Apply** e aguarde a conclusão.
 
-Instruções detalhadas passo a passo estão no arquivo [`LEIAME.txt`](./LEIAME.txt).
+Instruções detalhadas passo a passo estão no arquivo `LEIAME.txt`, que vem junto no .zip.
 
 ## Capturas de tela
 
